@@ -11,6 +11,7 @@ abstract class cellphone {
     abstract void Company();
 }
 
+
 interface Gps {
 
     void connect();
