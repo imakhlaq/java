@@ -22,6 +22,7 @@ class Smartphone extends Phone {
     public void model() {
         System.out.println("phone name");
     }
+    
 
 }
 
