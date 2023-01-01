@@ -14,6 +14,7 @@ class Base {
 
 }
 
+
 class Derived extends Base {
     Derived() {
         super(2);
