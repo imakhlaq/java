@@ -8,6 +8,7 @@ class Game{
    
 
 
+	
     public Game(){
         Random r=new Random();
 		genrated_num=r.nextInt(100);
