@@ -7,6 +7,7 @@ class Student{
 
    public void setId(int newid){
     if(newid>0){
+
         id=newid;
     }
     else{
