@@ -9,6 +9,7 @@ abstract class Base {
 
     public int getA() {
         return a;
+        
     }
 
     public Base() {
