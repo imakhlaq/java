@@ -14,6 +14,7 @@ class Game{
 		genrated_num=r.nextInt(100);
     }
 
+	
 
 
     public int getGenrated() {
